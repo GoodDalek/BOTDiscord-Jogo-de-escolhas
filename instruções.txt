@@ -1,0 +1,16 @@
+|#####################################################################|
+|                                                                     |
+|  1 = Crie um novo projeto e adcione os arquivos.                    |
+|  2 = Baixe e instale a API discord.py (async).                      |
+|  3 = Crie seu bot no site do discord.                               |
+|  4 = Copie o Token do seu bot.                                      |
+|  5 = Adicione o bot ao seu server.                                  |
+|  6 = Insira o Token no arquivo "chave.py".                          |
+|  7 = Execute o arquivo "BOT.py".                                    |
+|  8 = Teste o bot no seu servidor.                                   |
+|  9 = Modifique o codigo a vontade.                                  |
+|                                                                     |
+|  Qualquer duvida:                                                   |
+|  Documentação da API - https://discordpy.readthedocs.io/en/latest/  |
+|                                                                     |
+|#####################################################################|
